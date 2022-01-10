@@ -1,0 +1,63 @@
+<resources>
+    <string name="hintEmail">E-mail</string>
+    <string name="hintSenha">Senha</string>
+    <string name="labelCad">Ainda não é cadastrado?</string>
+    <string name="paraCadastrar">Cadastre-se</string>
+    <string name="Entrar">Entrar</string>
+    <string name="preencher">*Necessário preencher!</string>
+    <string name="errorEmail">*E-mail errado</string>
+    <string name="errorSenha">*Senha errada</string>
+    <string name="imagemReecycle">Logo Reecycle</string>
+    <string name="app_name">Reecycle</string>
+
+    <string name="lorem_ipsun">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+    <string name="artigo1">Agora que reciclar ficou mais prático e dinâmico, aqui vai algumas dicas de como você pode reciclar&#8230;</string>
+    <string name="artigo2">Além do papel, plástico, vidro, metal, tem vários outros tipos para se reciclar, e um deles é a madeira, resíduos orgânicos&#8230;</string>
+    <string name="artigo3">Para começar, você irá precisar somente de uma garrafa pet e uma tesoura. \n A parte de decoração usaremos&#8230;</string>
+
+    <string name="item1">Pen Drive</string>
+    <string name="item2">Gift Card Play Store</string>
+    <string name="item3">Camiseta Marvel</string>
+    <string name="item4">Camiseta DC</string>
+
+    <string name="reepoints1">900</string>
+    <string name="reepoints4">870</string>
+    <string name="reepoints3">870</string>
+    <string name="reepoints2">850</string>
+
+    <string name="imageDesc">Imagem do prêmio</string>
+
+    <!--Cadastro-->
+    <string name="hintNome">Nome</string>
+    <string name="hintSobrenome">Sobrenome</string>
+    <!--<string name="hintEmail">Email</string>-->
+    <string name="hintTelefone">Telefone</string>
+    <!--<string name="hintSenha">Senha</string>-->
+    <string name="hintConfirmarSenha">Confirmar Senha</string>
+    <string name="hintCidade">Cidade</string>
+    <string name="boxSaoCaetanoDoSul">São Caetano do Sul</string>
+    <string name="boxSantoAndre">Santo André</string>
+    <string name="boxSaoBernardo">São Bernardo do Campo</string>
+    <string name="btnCadastrar">Cadastrar-se</string>
+
+    <string name="municipios_prompt">Escolha seu municipio</string>
+    <string-array name="municipios">
+        <item></item>
+        <item>Santo André</item>
+        <item>São Bernardo do Campo</item>
+        <item>São Caetano do Sul</item>
+        <item>Mauá</item>
+        <item>Ribeirão Pires</item>
+        <item>Rio Grande da Serra</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_api_key">AIzaSyDr8X0n9r7bJmlOrn_pS2AZWEZ9o9mCRdg</string>
+
+</resources>

@@ -1,0 +1,48 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Theme.Reecycle" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <item name="android:colorError" tools:targetApi="o">@color/colorError</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+    </style>
+
+    <style name="ShapeAppearance.MyTheme.SmallComponent" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">4dp</item>
+    </style>
+
+    <style name="ShapeAppearance.MyTheme.MediumComponent" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">40dp</item>
+    </style>
+
+    <style name="ShapeAppearance.MyTheme.LargeComponent" parent="ShapeAppearance.MaterialComponents.LargeComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">100dp</item>
+    </style>
+
+    <style name="TextAppearance.Reecycle.Body1" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="Theme.TabLayout" parent="Widget.MaterialComponents.TabLayout">
+        <item name="tabTextColor">@color/background</item>
+        <item name="tabIndicatorColor">@color/colorSecondaryVariant</item>
+        <item name="tabGravity">fill</item>
+        <item name="tabMode">fixed</item>
+    </style>
+
+    <style name="TemaBold">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+
+
+
+</resources>

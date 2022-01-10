@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#04BF45</color>
+    <color name="colorSecondary">#63d471</color>
+    <color name="colorPrimaryVariant">#189100</color>
+    <color name="colorSecondaryVariant">#21CC00</color>
+    <color name="colorError">#B00020</color>
+    <color name="background">#FFFFFF</color>
+    <color name="preto">#111</color>
+    <color name="colorPrimaryBlue">#06CCBB</color>
+    <color name="colorPrimaryVerdeClaro">#06D68A</color>
+    <color name="colorR">#FAF9F9</color>
+    <color name="color2">#063ECC</color>
+
+
+
+</resources>

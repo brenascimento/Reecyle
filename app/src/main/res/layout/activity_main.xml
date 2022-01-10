@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/mainTela"
+    tools:context=".MainActivity">
+
+    <fragment
+        android:id="@+id/loginFrag"
+        android:name="com.reecycle.reecycleapp.form.ReeUsersFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout="@layout/form_fragment"/>
+    <fragment
+        android:id="@+id/cadastroFrag"
+        android:name="com.reecycle.reecycleapp.form.ReeUsersCadastroFragment"
+        tools:layout="@layout/cadastro_fragment"
+        android:layout_centerVertical="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

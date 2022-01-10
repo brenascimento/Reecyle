@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Reecycle" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <item name="android:colorError" tools:targetApi="o">@color/colorError</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="android:fontFamily">@font/robotoregular</item>
+    </style>
+
+    <style name="Theme.TabLayout" parent="Widget.MaterialComponents.TabLayout">
+        <item name="tabMode">fixed</item>
+        <item name="tabGravity">fill</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="tabTextColor">@color/background</item>
+        <item name="tabIndicatorColor">@color/colorSecondaryVariant</item>
+        <item name="tabRippleColor">@color/colorSecondary</item>
+    </style>
+
+</resources>
